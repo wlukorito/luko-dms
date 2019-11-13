@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/lukorito/Learning/React/express-server"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "express-server"
+	}
+}

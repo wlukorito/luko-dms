@@ -1,0 +1,36 @@
+Connect to DB --DONE
+Create users table --DONE
+Create document metadata table --DONE
+Create upload with metadata (get formdata, protected routes, authentication token storage in browser, making requests with tokens)
+Download document from route send from db - DONE
+Status change
+Implementing profiles
+
+--Upload doc with metadata and store in db - DONE
+--Retrieve db doc meta and display in uploads and finished - DONE
+--Download a document from list - DONE
+
+
+PENDING
+--JWT tokens (encrypt passwords with bcrypt)
+--Storing user data in browser local storage
+--Status changes on download
+--Admin upload
+--Default owner on client upload
+--Profile view/component
+--User creation and management
+--Documentation page/How-To page
+
+--Site footer on side menu
+--Site footer on content pane (Lukorito)
+
+--Fix size of file upload: drop area large
+-- improve options icons on navbar
+
+
+LATER
+-- encrypt data in sessionStorage
+-- Change state management to hooks + context
+-- use MDB for theme (Improve buttons and UI organization)
+-- Implement Stats 
+-- Implement folders [Uploads (new, uploaded), Tasks (Pending)]
